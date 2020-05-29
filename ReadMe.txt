@@ -1,6 +1,6 @@
 ! Toate comenziile se ruleaza din comand promt din itneriorul proiectul 'restservices'
 
-1. # install installer
+1. # install framework laraval
 
 Comanda: composer global require laravel/installer
 
